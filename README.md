@@ -10,7 +10,7 @@
 
 
 ## Description
-This is a simple role-playing game (RPG) built to run on your computer's command line. You will play as a fantasy warrior going head to head battling against various monsters. You will have potions at your disposal to boost your character's stats or refill their hit points (HP). Whether or not future development for more features is a possibility is unclear at this time. This app utilizes object oriented programming and test driven development philosophies to organize the code. Feel free to poke around the repository to see how it works. 
+This is a simple role-playing game (RPG) built to run on your computer's command line. You will play as a fantasy warrior going head to head battling against various monsters. You will have potions at your disposal to boost your character's stats or refill your hit points (HP). Whether or not future development for more features is a possibility is unclear at this time. This app utilizes object oriented programming and test driven development philosophies to organize the code. Feel free to poke around the repository to see how it works. 
     
 
 ## Installation
